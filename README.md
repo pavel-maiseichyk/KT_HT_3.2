@@ -1,7 +1,7 @@
 # KT_HT_3.2
 
 Не были использованы следующие понятия:
-guid?, 
+guid, 
 ownerId, 
 userId, 
 needWiki, 
